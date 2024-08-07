@@ -1,0 +1,5 @@
+run="node website.js"
+
+[[ports]]
+localPort = 80
+externalPort = 80
